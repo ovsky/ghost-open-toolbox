@@ -7,7 +7,7 @@ Made by ovvsky and supported by BATLEZ works.
 
 1. Copy "nhcolor.exe" to Windows/System32
 2. Create Ghost Toolbox folder in C:/
-3. Copy these files inside Ghost Toolbox folder
+3. Copy repo files to created Ghost Toolbox folder
 4. Run and close update.cmd
 5. Run toolbox.updater.x64.exe / run.ghost.cmd
 
