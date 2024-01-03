@@ -13,3 +13,4 @@ Made by ovvsky and supported by BATLEZ works.
 
 Yeah!
 
+![Ghost Toolbox Windows Image](https://i.ibb.co/fH2ds0Z/windows-ghost.png)
