@@ -1,8 +1,8 @@
-## Ghost Toolbox Open
-
+## Modified Ghost Toolbox
+*to work on every windows version*
 ```
-Open sourced Ghost Toolbox for every Windows.
-Made by ovvsky and supported by BATLEZ works.
+Modified Ghost Toolbox for every Windows.
+Made by GHOST Himself
 ```
 Instruction:
 
@@ -24,4 +24,4 @@ If you have a system with simplified/cleared Enviroment Variables, you may add t
 2. Add reg to your ENV PATH: `C:\Windows\System32\`
 3. Add wmic to your ENV PATH: `C:\Windows\System32\wbem\`
 
-![Ghost Toolbox Windows Image](https://i.ibb.co/rF4NFWD/windows-ghost-fix.png)
+![Ghost Toolbox Windows Image](![image](https://github.com/ovsky/ghost-open-toolbox/assets/116146426/58ae534b-64d4-44c1-b6a1-87c1c5b5029f))
