@@ -17,7 +17,7 @@ Instruction:
 
 Yeah!
 
-<br>
+![Ghost Toolbox Windows Image](https://i.ibb.co/rF4NFWD/windows-ghost-fix.png)
 
 Additional
 
@@ -26,5 +26,3 @@ If you have a system with simplified/cleared Enviroment Variables, you may add t
 1. Add PowerShell to your ENV PATH: `C:\Windows\System32\WindowsPowerShell\v1.0\`
 2. Add reg to your ENV PATH: `C:\Windows\System32\`
 3. Add wmic to your ENV PATH: `C:\Windows\System32\wbem\`
-
-![Ghost Toolbox Windows Image](https://i.ibb.co/rF4NFWD/windows-ghost-fix.png)
