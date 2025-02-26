@@ -1,8 +1,8 @@
 ## Ghost Toolbox Open
 
 ```
-Open sourced Ghost Toolbox for every Windows.
-Made by ovvsky and supported by BATLEZ works.
+Latest, auto-updating, open-sourced Ghost Toolbox for every Windows.
+Made by ovsky. Inspired by BATLEZ works.
 ```
 
 Instruction:
